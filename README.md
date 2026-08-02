@@ -1,7 +1,12 @@
-# PyTorchFashion
-CSE 163 - Intermediate Data Programming Final Project
+# PyTorch Fashion-MNIST Project
 
+This project analyzes and classifies images from the Fashion-MNIST
+dataset using PyTorch.
 
-1. Download Fashion-MNIST from Kaggle: https://www.kaggle.com/datasets/zalando-research/fashionmnist?resource=download
-3. Create a folder named data in the project directory.
-4. Place fashion-mnist_train.csv and fashion-mnist_test.csv inside data.
+## Dataset setup
+
+1. Download the Fashion-MNIST CSV files from Kaggle.
+2. Create a folder named `data` inside the project.
+3. Place the following files inside `data`:
+   - `fashion-mnist_train.csv`
+   - `fashion-mnist_test.csv`
